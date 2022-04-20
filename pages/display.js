@@ -9,10 +9,10 @@ const display = () => {
   const [ data, setData] = useState()
   console.log(data)
 
-  const username = "2affd3272f125a9ad6a3ae59b5505e79"
-  const password = "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"
+  const username = 
+  const password = 
 
-  const URL = "https://2affd3272f125a9ad6a3ae59b5505e79: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@jiyang-enterprise.myshopify.com/admin/api/2022-01/products.json";
+  const URL = 
 
   const headers = {
         Authorization:
